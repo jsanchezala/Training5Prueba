@@ -5,6 +5,7 @@ import java.math.BigDecimal;
 public class Product {
 
     private String code;
+	private String prueba;
     private String name;
     private String description;
     private BigDecimal price;
